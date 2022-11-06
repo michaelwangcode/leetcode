@@ -15,7 +15,7 @@
 
 
 // Input: The array of numbers
-let nums = [1, 2, 3, 1];
+const nums = [1, 2, 3, 1];
 
 
 

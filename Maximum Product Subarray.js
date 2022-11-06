@@ -20,6 +20,8 @@
 // Input: An array of integers
 const nums = [2, 3, -2, 4, 0];
 
+
+
 // This function returns the max subarray product
 const maxProduct = function(nums) {
 
