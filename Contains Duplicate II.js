@@ -49,3 +49,5 @@ const containsNearbyDuplicate = function(nums, k) {
 
 
 
+// Test the containsNearbyDuplicate function
+console.log(containsNearbyDuplicate(nums, k));
