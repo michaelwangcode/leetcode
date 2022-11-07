@@ -15,6 +15,8 @@
 // If so, remove it from the stack
 // Otherwise, return false because the parentheses are not valid
 
+// Video: https://www.youtube.com/watch?v=WTzjTskDFMg
+
 
 
 // Input: A string of parentheses
