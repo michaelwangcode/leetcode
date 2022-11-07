@@ -20,8 +20,6 @@
 // depending on if the middle number is greater than the left number
 // Repeat until the minimum is found
 
-
-
 // Video: https://www.youtube.com/watch?v=nIVW4P8b1VA
 
 
