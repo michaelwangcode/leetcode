@@ -15,7 +15,7 @@
 
 
 
-// Input: 
+// Input: A string of letters and star characters
 const s = "leet**cod*e";
 
 
