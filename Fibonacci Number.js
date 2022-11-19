@@ -37,10 +37,10 @@ const fib = function(n) {
   let second = 1;
   let temp;
   
-  // 
+  // Loop from 2 to the end of the array
   for (let i = 2; i < n; i++) {
       
-    // Set 
+    // Calculate the nth element using the previous 2 elements
     temp = first;
     first = second;
     second = second + temp;
