@@ -15,7 +15,7 @@
 // If the original array is: [a, b, c, d]
 // The prefix array is: [a, ab, abc, abcd]
 // The postfix array is: [abcd, bcd, cd, d]
-// The answer array is: [bcd, acd, abd, bcd]
+// The answer array is: [bcd, acd, abd, abc]
 
 // The prefix array is computed by iterating forwards
 // The postfix array is computed by iterating in reverse
