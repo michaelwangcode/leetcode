@@ -7,7 +7,7 @@
 //----- SOLUTION -----//
 
 // Postorder Traversal is a type of Depth First Search.
-// It can be performed iteratively or recursively,
+// It can be performed iteratively or recursively.
 
 // Postorder Traversal:
 // 1. Visit the left subtree
