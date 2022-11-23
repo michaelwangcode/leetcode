@@ -13,9 +13,9 @@
 //----- SOLUTION -----//
  
 // Set a results array with the first two rows: [[1],[1,1]]
-// Loop through the remaining rows and calculate the value for each element
-// Each element will begin and end with the number 1
-// The middle numbers are calculated by adding consecutive numbers
+// Loop through the remaining rows and calculate the value for each element.
+// Each element will begin and end with the number 1.
+// The middle numbers are calculated by adding consecutive numbers.
  
 
 
