@@ -20,7 +20,7 @@
 
 
 // Input: An integer representing the number of rows of Pascal's triangle
-let numRows = 10;
+const numRows = 10;
 
 
 
