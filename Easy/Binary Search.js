@@ -37,19 +37,19 @@ const search = function(nums, target) {
     // Calculate the middle index (make sure to use floor)
     let middleIndex = Math.floor((leftIndex + rightIndex) / 2);
 
-    // If the target is smaller than the middle index,
+    // If the target is smaller than the middle number,
     if (target < nums[middleIndex]) {
 
       // Move the right index to the left of the middle index
       rightIndex = middleIndex - 1;
 
-    // If the target is larger than the middle index
+    // If the target is larger than the middle number,
     } else if (target > nums[middleIndex]) {
 
       // Move the left index to the right of the middle index
       leftIndex = middleIndex + 1;
 
-    // If the middle index is equal the target,
+    // If the middle number is equal the target,
     } else {
 
       // Return the middle index
