@@ -18,11 +18,14 @@ Written in JavaScript.
 | 14   | Longest Common Prefix                    | Array       | Easy       | 2 for loops                                 |
 | 20   | Valid Parentheses                        | String      | Easy       | Stack; Hash map for bracket pair            |
 | 26   | Remove Duplicates from Sorted Array      | Array       | Easy       | Slow and fast pointer                       |
+| 27   | Remove Element                           | Array       | Easy       | Slow and fast pointer                       |
+| 35   | Search Insert Position                   | Array       | Easy       | Binary search, return left pointer          |
 | 66   | Plus One                                 | Array       | Easy       | Loop through digits back to front           |
 | 69   | Sqrt(x)                                  | Number      | Easy       | Loop from 1 to x                            |
 | 70   | Climbing Stairs                          | Array       | Easy       | Fibonacci Sequence                          |
 | 88   | Merge Sorted Array                       | Array       | Easy       | Loop in reverse, compare                    |
 | 94   | Binary Tree Inorder Traversal            | Binary Tree | Easy       | Recursion; or stack                         |
+| 104  | Maximum Depth of a Binary Tree           | Binary Tree | Easy       | Recursion, return 1+Max depth (left, right) |
 | 118  | Pascal's Triangle                        | Array       | Easy       | For loop                                    |
 | 121  | Best Time to Buy and Sell Stock          | Array       | Easy       | Max, slow & fast pointer                    |
 | 125  | Valid Palindrome                         | String      | Easy       | Regex; Left and right pointers              |
