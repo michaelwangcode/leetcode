@@ -12,7 +12,7 @@
 
 //----- SOLUTION -----//
  
-// Set a results array with the first two rows: [[1],[1,1]]
+// Set a results array with the first row: [[1]]
 // Loop through the remaining rows and calculate the value for each element.
 // Each element will begin and end with the number 1.
 // The middle numbers are calculated by adding consecutive numbers.
@@ -27,16 +27,11 @@ const numRows = 10;
 // This function returns the first numRows of Pascal's triangle
 const generate = function(numRows) {
   
-  // If there is only one row, return [[1]]
-  if (numRows === 1) {
-      return [[1]];
-  }
+  // Create a results array with the first row
+  result = [[1]];
   
-  // Create a results array with the first two rows
-  result = [[1],[1,1]];
-  
-  // Iterate through the remaining rows starting from 2
-  for(let i = 2; i < numRows; i++) {
+  // Iterate through the remaining rows starting from 1
+  for(let i = 1; i < numRows; i++) {
     
     // Create a subarray containing the number 1
     let element = [1];
