@@ -74,7 +74,20 @@ Written in JavaScript.
 | 152  | Maximum Product Subarray             | Array    | Medium     | Track both max and min                  |
 | 153  | Find Minimum in Rotated Sorted Array | Array    | Medium     | Binary search                           |
 | 238  | Product of Array Except Self         | Array    | Medium     | Prefix and postfix array                |
+| 2225 | Find Players With Zero or One Losses | Array    | Medium     | Hash map                                |
 | 2390 | Removing Stars From a String         | String   | Medium     | Stack                                   |
 
+&nbsp;
+
+&nbsp;
 
 
+## Hard Problems
+
+| # | Title                       | Category | Difficulty | Notes                                           |
+|---|-----------------------------|----------|------------|-------------------------------------------------|
+| 4 | Median of Two Sorted Arrays | Array    | Hard       | Merge arrays with while loops; calculate median |
+
+&nbsp;
+
+&nbsp;
