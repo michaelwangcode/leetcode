@@ -57,3 +57,4 @@ const getRow = function(rowIndex) {
 
 // Test the getRow function
 console.log(getRow(rowIndex));
+
