@@ -4,9 +4,11 @@ This is a list of all the LeetCode problems I've completed so far.
 
 Written in JavaScript.
 
+
 &nbsp;
 
 &nbsp;
+
 
 ## Easy Problems
 
@@ -83,6 +85,7 @@ Written in JavaScript.
 | 2225 | Find Players With Zero or One Losses | Array    | Medium     | Hash map                                |
 | 2390 | Removing Stars From a String         | String   | Medium     | Stack                                   |
 
+
 &nbsp;
 
 &nbsp;
@@ -93,6 +96,7 @@ Written in JavaScript.
 | # | Title                       | Category | Difficulty | Notes                                           |
 |---|-----------------------------|----------|------------|-------------------------------------------------|
 | 4 | Median of Two Sorted Arrays | Array    | Hard       | Merge arrays with while loops; calculate median |
+
 
 &nbsp;
 
