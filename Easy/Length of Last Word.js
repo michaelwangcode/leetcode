@@ -44,3 +44,4 @@ const lengthOfLastWord = function(s) {
 
 // Test the lengthOfLastWord function
 console.log(lengthOfLastWord(s));
+
