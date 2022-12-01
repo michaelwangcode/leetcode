@@ -31,7 +31,7 @@ Written in JavaScript.
 | 100  | Same Tree                                  | Binary Tree | Easy       | Recursion                                   |
 | 101  | Symmetric Tree                             | Binary Tree | Easy       | Helper function to check subtrees           |
 | 104  | Maximum Depth of a Binary Tree             | Binary Tree | Easy       | Recursion, return 1+Max depth (left, right) |
-| 108  | Convert Sorted Array to Binary Search Tree | Binary Tree | Easy       | Recursion, helper function                  |
+| 108  | Convert Sorted Array to Binary Search Tree | Binary Tree | Easy       | Recursion, helper function inside function  |
 | 118  | Pascal's Triangle                          | Array       | Easy       | For loop                                    |
 | 119  | Pascal's Triangle II                       | Array       | Easy       | Loop in reverse, push (1) before adding     |
 | 121  | Best Time to Buy and Sell Stock            | Array       | Easy       | Max, slow & fast pointer                    |
