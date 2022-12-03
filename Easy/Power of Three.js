@@ -7,22 +7,21 @@
 
 //----- SOLUTION -----//
 
-// Iterate from 0 to 19 as x and see if the number is equal to 3^x
-// We only need to do the first 20 integers because the value of 3^x grows very fast
+// Create a product variable
+// Iterate from 0 to 19 and see if the number is equal to the product
+// If not, multiply the product by 2 and check again
+// We only need to do this 15 times because the value of 3^x grows very fast
 
 
 
 // Input: An integer
-let n = 27;
+const n = 27;
 
 
 
-// Return if the number is a power of three
+// This function returns true if the number is a power of three
 const isPowerOfThree = function(n) {
     
-  // Return true if n is 1 because 3^0 is 1
-  if (n === 1) return true;
-  
   // Store the product
   let product = 1;
   
@@ -40,7 +39,7 @@ const isPowerOfThree = function(n) {
     product *= 3;
   }
   
-  // Otherwise n is not a product of 3 so return false
+  // Otherwise return false
   return false;
 };
 
