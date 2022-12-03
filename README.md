@@ -47,11 +47,13 @@ Written in JavaScript.
 | 202  | Happy Number                               | Number      | Easy       | Helper function and hash map                |
 | 217  | Contains Duplicate                         | Array       | Easy       | Hash map                                    |
 | 219  | Contains Duplicate II                      | Array       | Easy       | Hash map                                    |
+| 231  | Power of Two                               | Number      | Easy       | Loop from 0 to 30                           |
 | 242  | Valid Anagram                              | String      | Easy       | Hash map                                    |
 | 263  | Ugly Number                                | Number      | Easy       | Keep dividing by 2, 3 and 5 until you can't |
 | 268  | Missing Number                             | Array       | Easy       | XOR operator; addition & subtraction        |
 | 283  | Move Zeroes                                | Array       | Easy       | Slow & fast pointer                         |
-| 326  | Power of Three                             | Number      | Easy       | Loop from 3^0 to 3^19 and check             |
+| 326  | Power of Three                             | Number      | Easy       | Loop from 0 to 19                           |
+| 342  | Power of Four                              | Number      | Easy       | Loop from 0 to 15                           |
 | 344  | Reverse String                             | Array       | Easy       | Left and right pointer, swap letters        |
 | 350  | Intersection of Two Arrays II              | Array       | Easy       | Sort both arrays; compare elements          |
 | 374  | Guess Number Higher or Lower               | Array       | Easy       | Binary search                               |
@@ -63,6 +65,7 @@ Written in JavaScript.
 | 1047 | Remove All Adjacent Duplicates In String   | String      | Easy       | Stack                                       |
 | 1323 | Maximum 69 Number                          | Number      | Easy       | Convert int to string                       |
 | 1544 | Make The String Great                      | String      | Easy       | Stack                                       |
+| 1704 | Determine if String Halves Are Alike       | String      | Easy       | Left and right pointer                      |
 
 
 &nbsp;
