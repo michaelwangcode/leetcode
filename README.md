@@ -57,11 +57,13 @@ Written in JavaScript.
 | 344  | Reverse String                             | Array       | Easy       | Left and right pointer, swap letters        |
 | 350  | Intersection of Two Arrays II              | Array       | Easy       | Sort both arrays; compare elements          |
 | 374  | Guess Number Higher or Lower               | Array       | Easy       | Binary search                               |
+| 383  | Ransom Note                                | String      | Easy       | Hash map                                    |
 | 387  | First Unique Character in a String         | String      | Easy       | Hash map                                    |
 | 412  | Fizz Buzz                                  | String      | Easy       | For loop                                    |
 | 509  | Fibonacci Number                           | Array       | Easy       | Use array, DP                               |
 | 704  | Binary Search                              | Array       | Easy       | Binary search                               |
 | 844  | Backspace String Compare                   | String      | Easy       | Stack                                       |
+| 953  | Verifying an Alien Dictionary              | String      | Easy       | indexOf function                            |
 | 1047 | Remove All Adjacent Duplicates In String   | String      | Easy       | Stack                                       |
 | 1323 | Maximum 69 Number                          | Number      | Easy       | Convert int to string                       |
 | 1544 | Make The String Great                      | String      | Easy       | Stack                                       |
@@ -86,6 +88,7 @@ Written in JavaScript.
 | 153  | Find Minimum in Rotated Sorted Array | Array    | Medium     | Binary search                            |
 | 198  | House Robber                         | Array    | Medium     | Dynamic Programming, max(n+prev2, prev1) |
 | 238  | Product of Array Except Self         | Array    | Medium     | Prefix and postfix array                 |
+| 451  | Sort Characters By Frequency         | String   | Medium     | Hash map, convert values to array        |
 | 2225 | Find Players With Zero or One Losses | Array    | Medium     | Hash map                                 |
 | 2390 | Removing Stars From a String         | String   | Medium     | Stack                                    |
 
