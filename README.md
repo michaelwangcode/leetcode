@@ -37,6 +37,7 @@ Written in JavaScript.
 | 121  | Best Time to Buy and Sell Stock            | Array       | Easy       | Max, slow & fast pointer                    |
 | 125  | Valid Palindrome                           | String      | Easy       | Regex; Left and right pointers              |
 | 136  | Single Number                              | Array       | Easy       | XOR operator; or hash map                   |
+| 141  | Linked List Cycle                          | Linked List | Easy       | Slow and fast pointer                       |
 | 144  | Binary Tree Preorder Traversal             | Binary Tree | Easy       | Recursion; or stack                         |
 | 145  | Binary Tree Postorder Traversal            | Binary Tree | Easy       | Recursion; or stack                         |
 | 167  | Two Sum II - Input Array Is Sorted         | Array       | Easy       | Left and right pointer                      |
@@ -51,7 +52,7 @@ Written in JavaScript.
 | 242  | Valid Anagram                              | String      | Easy       | Hash map                                    |
 | 263  | Ugly Number                                | Number      | Easy       | Keep dividing by 2, 3 and 5 until you can't |
 | 268  | Missing Number                             | Array       | Easy       | XOR operator; addition & subtraction        |
-| 283  | Move Zeroes                                | Array       | Easy       | Slow & fast pointer                         |
+| 283  | Move Zeroes                                | Array       | Easy       | Slow and fast pointer                       |
 | 326  | Power of Three                             | Number      | Easy       | Loop from 0 to 19                           |
 | 342  | Power of Four                              | Number      | Easy       | Loop from 0 to 15                           |
 | 344  | Reverse String                             | Array       | Easy       | Left and right pointer, swap letters        |
@@ -63,6 +64,7 @@ Written in JavaScript.
 | 509  | Fibonacci Number                           | Array       | Easy       | Use array, DP                               |
 | 704  | Binary Search                              | Array       | Easy       | Binary search                               |
 | 844  | Backspace String Compare                   | String      | Easy       | Stack                                       |
+| 876  | Middle of the Linked List                  | Linked List | Easy       | Slow and fast pointer                       |
 | 953  | Verifying an Alien Dictionary              | String      | Easy       | indexOf function                            |
 | 1047 | Remove All Adjacent Duplicates In String   | String      | Easy       | Stack                                       |
 | 1323 | Maximum 69 Number                          | Number      | Easy       | Convert int to string                       |
