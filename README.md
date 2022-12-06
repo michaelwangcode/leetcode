@@ -41,6 +41,7 @@ Written in JavaScript.
 | 144  | Binary Tree Preorder Traversal             | Binary Tree | Easy       | Recursion; or stack                         |
 | 145  | Binary Tree Postorder Traversal            | Binary Tree | Easy       | Recursion; or stack                         |
 | 167  | Two Sum II - Input Array Is Sorted         | Array       | Easy       | Left and right pointer                      |
+| 168  | Excel Sheet Column Title                   | Number      | Easy       | Divide by 26, convert remainder to letter   |
 | 169  | Majority Element                           | Array       | Easy       | Track current number and count              |
 | 171  | Excel Sheet Column Number                  | String      | Easy       | Base 26 Number                              |
 | 190  | Reverse Bits                               | Number      | Easy       | Convert to string                           |
