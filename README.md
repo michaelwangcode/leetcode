@@ -80,20 +80,21 @@ Written in JavaScript.
 
 ## Medium Problems
 
-| #    | Title                                | Category | Difficulty | Notes                                    |
-|------|--------------------------------------|----------|------------|------------------------------------------|
-| 11   | Container With Most Water            | Array    | Medium     | Max, left & right pointer                |
-| 15   | 3Sum                                 | Array    | Medium     | Sort, left & right pointer               |
-| 36   | Valid Sudoku                         | Array    | Medium     | Hash maps, divide by 3 for square        |
-| 53   | Maximum Subarray                     | Array    | Medium     | Kadane's Algorithm, unless all negative  |
-| 151  | Reverse Words in a String            | String   | Medium     | Regex and array                          |
-| 152  | Maximum Product Subarray             | Array    | Medium     | Track both max and min                   |
-| 153  | Find Minimum in Rotated Sorted Array | Array    | Medium     | Binary search                            |
-| 198  | House Robber                         | Array    | Medium     | Dynamic Programming, max(n+prev2, prev1) |
-| 238  | Product of Array Except Self         | Array    | Medium     | Prefix and postfix array                 |
-| 451  | Sort Characters By Frequency         | String   | Medium     | Hash map, convert values to array        |
-| 2225 | Find Players With Zero or One Losses | Array    | Medium     | Hash map                                 |
-| 2390 | Removing Stars From a String         | String   | Medium     | Stack                                    |
+| #    | Title                                | Category    | Difficulty | Notes                                    |
+|------|--------------------------------------|-------------|------------|------------------------------------------|
+| 2    | Add Two Numbers                      | Linked List | Medium     | Carry variable, for loop                 |
+| 11   | Container With Most Water            | Array       | Medium     | Max, left & right pointer                |
+| 15   | 3Sum                                 | Array       | Medium     | Sort, left & right pointer               |
+| 36   | Valid Sudoku                         | Array       | Medium     | Hash maps, divide by 3 for square        |
+| 53   | Maximum Subarray                     | Array       | Medium     | Kadane's Algorithm, unless all negative  |
+| 151  | Reverse Words in a String            | String      | Medium     | Regex and array                          |
+| 152  | Maximum Product Subarray             | Array       | Medium     | Track both max and min                   |
+| 153  | Find Minimum in Rotated Sorted Array | Array       | Medium     | Binary search                            |
+| 198  | House Robber                         | Array       | Medium     | Dynamic Programming, max(n+prev2, prev1) |
+| 238  | Product of Array Except Self         | Array       | Medium     | Prefix and postfix array                 |
+| 451  | Sort Characters By Frequency         | String      | Medium     | Hash map, convert values to array        |
+| 2225 | Find Players With Zero or One Losses | Array       | Medium     | Hash map                                 |
+| 2390 | Removing Stars From a String         | String      | Medium     | Stack                                    |
 
 
 &nbsp;
