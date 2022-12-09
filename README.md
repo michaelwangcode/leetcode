@@ -57,6 +57,7 @@ Written in JavaScript.
 | 326  | Power of Three                             | Number      | Easy       | Loop from 0 to 19                           |
 | 342  | Power of Four                              | Number      | Easy       | Loop from 0 to 15                           |
 | 344  | Reverse String                             | Array       | Easy       | Left and right pointer, swap letters        |
+| 345  | Reverse Vowels in a String                 | Array       | Easy       | Left and Right pointer, swap vowels         |
 | 350  | Intersection of Two Arrays II              | Array       | Easy       | Sort both arrays; compare elements          |
 | 374  | Guess Number Higher or Lower               | Array       | Easy       | Binary search                               |
 | 383  | Ransom Note                                | String      | Easy       | Hash map                                    |
