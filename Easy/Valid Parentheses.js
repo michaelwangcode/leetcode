@@ -20,7 +20,7 @@
 
 
 // Input: A string of parentheses
-let s = "{{}}()[()]";
+const s = "{{}}()[()]";
 
 
 
