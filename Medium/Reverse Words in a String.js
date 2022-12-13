@@ -17,7 +17,7 @@
 
 
 // Input: A string
-let s = "the sky is blue";
+const s = "the sky is blue";
 
 
 
