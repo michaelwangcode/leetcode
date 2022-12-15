@@ -36,7 +36,7 @@ const twoSum = function(nums, target) {
   for (let i = 0; i < nums.length; i++) {
 
     // Calculate the pair value for the current value, then convert to string
-    let pair = (target - nums[i]);
+    let pair = target - nums[i];
     
     // Check if any value in the hash map pairs with the current value
     if (hashMap[pair] !== undefined) {
@@ -45,7 +45,6 @@ const twoSum = function(nums, target) {
       return [hashMap[pair], i];
     }
     
-
     // After checking, store the current value in the hash map object (note: the key is a string)
     hashMap[nums[i]] = i;
   }
