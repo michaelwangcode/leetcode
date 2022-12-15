@@ -28,7 +28,7 @@ const target = 9;
 // It returns the indices of two integers that add up to the target
 const twoSum = function(nums, target) {
 
-  // Create a hashMap object
+  // Create a hash map
   let hashMap = {};
 
 
@@ -36,14 +36,13 @@ const twoSum = function(nums, target) {
   for (let i = 0; i < nums.length; i++) {
 
     // Calculate the pair value for the current value, then convert to string
-    let pairValue = String(target - nums[i]);
+    let pair = (target - nums[i]);
     
     // Check if any value in the hash map pairs with the current value
-    if (hashMap[pairValue] !== undefined) {
+    if (hashMap[pair] !== undefined) {
 
-      //console.log(true);
       // If so, return its index and the index of the current number
-      return [hashMap[pairValue], i];
+      return [hashMap[pair], i];
     }
     
 
