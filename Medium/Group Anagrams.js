@@ -1,17 +1,31 @@
 //----- QUESTION -----//
 
+// Given an array of stirngs, group the anagrams together in an array and return them.
 
+// For example:
+// Input:  ["eat","tea","tan","ate","nat","bat"]
+// Output: [["bat"],["nat","tan"],["ate","eat","tea"]]
 
 
 
 //----- SOLUTION -----//
 
+// Use a hash map to keep track of the anagrams.
+// The key is a string sorted in alphabetical order; the value is an array of strings that are an anagram of that key
+// Example: { "act": ["act", "cat"] }
+
+// Create a helper function that takes a string and returns the letters sorted in alphabetical order.
+
+// 1. Loop through the array of strings
+// 2. If the sorted string exists in the hash map, add the current word to its array
+//    If it is not in the hash map, add it using the sorted string as the key and an array containing the original string
+// 3. Iterate through the hash map and add the anagram arrays to a result array
+// 4. Return the result array
 
 
 
 // Input: An array of strings
 const strs = ["eat","tea","tan","ate","nat","bat"];
-
 
 
 
