@@ -7,10 +7,10 @@
 
 //----- SOLUTION -----//
 
-// Convert the string to an array
-// Iterate through the array and store the vowels in an array
-// Iterate through the array forwards and the vowels array in reverse, and replace each vowel
-// Return the array as a string
+// Convert the string to an array.
+// Iterate through the array and store the vowels in an array.
+// Iterate through the array forwards and the vowels array in reverse, and replace each vowel.
+// Return the array as a string.
 
 
 
