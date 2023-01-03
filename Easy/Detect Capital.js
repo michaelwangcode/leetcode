@@ -12,8 +12,8 @@
 
 //----- SOLUTION -----//
 
-// Use the toUpperCase() and toLowerCase() functions to easily compare strings
-// Use the slice(1) function to access the substring after the first letter
+// Use the toUpperCase() and toLowerCase() functions to easily compare strings.
+// Use the slice(1) function to access the substring after the first letter.
 
 
 
