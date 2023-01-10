@@ -71,7 +71,7 @@ const topKFrequent = function(nums, k) {
   }
   
   // Get rid of the all empty arrays by flattening the array
-  array = array.flat()
+  array = array.flat();
   
 
   // Create a result array to store the k most frequent numbers
